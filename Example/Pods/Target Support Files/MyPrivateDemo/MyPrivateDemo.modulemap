@@ -1,0 +1,6 @@
+framework module MyPrivateDemo {
+  umbrella header "MyPrivateDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "MyPrivateDemo",
+  "version": "0.1.0",
+  "summary": "A short description of MyPrivateDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "git@github.com:YongFangLili/MyPrivateDemo.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yongfang": "786419142@qq.com"
+  },
+  "source": {
+    "git": "git@github.com:YongFangLili/MyPrivateDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MyPrivateDemo/Classes/**/*"
+}
