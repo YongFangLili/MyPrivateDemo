@@ -7,101 +7,105 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1FDB8039F465A82D73312299006FE417 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		3D4AB7F628436D0500DCA32C /* UIButton+TouchSize.h in Headers */ = {isa = PBXBuildFile; fileRef = 3D4AB7E728436D0500DCA32C /* UIButton+TouchSize.h */; };
-		3D4AB7F728436D0500DCA32C /* ALUIButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 3D4AB7E828436D0500DCA32C /* ALUIButton.h */; };
-		3D4AB7F828436D0500DCA32C /* UIButton+Position.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D4AB7EA28436D0500DCA32C /* UIButton+Position.m */; };
-		3D4AB7F928436D0500DCA32C /* UIButton+Basic.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D4AB7EB28436D0500DCA32C /* UIButton+Basic.m */; };
-		3D4AB7FA28436D0500DCA32C /* UIButton+Position.h in Headers */ = {isa = PBXBuildFile; fileRef = 3D4AB7EC28436D0500DCA32C /* UIButton+Position.h */; };
-		3D4AB7FB28436D0500DCA32C /* UIButton+Basic.h in Headers */ = {isa = PBXBuildFile; fileRef = 3D4AB7ED28436D0500DCA32C /* UIButton+Basic.h */; };
-		3D4AB7FC28436D0500DCA32C /* UIButton+Animation.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D4AB7EF28436D0500DCA32C /* UIButton+Animation.m */; };
-		3D4AB7FD28436D0500DCA32C /* UIButton+Animation.h in Headers */ = {isa = PBXBuildFile; fileRef = 3D4AB7F028436D0500DCA32C /* UIButton+Animation.h */; };
-		3D4AB7FE28436D0500DCA32C /* ALUIButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D4AB7F128436D0500DCA32C /* ALUIButton.m */; };
-		3D4AB7FF28436D0500DCA32C /* UIButton+TouchSize.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D4AB7F228436D0500DCA32C /* UIButton+TouchSize.m */; };
-		3D4AB80028436D0500DCA32C /* SUIBoundsRoundButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D4AB7F428436D0500DCA32C /* SUIBoundsRoundButton.m */; };
-		3D4AB80128436D0500DCA32C /* SUIBoundsRoundButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 3D4AB7F528436D0500DCA32C /* SUIBoundsRoundButton.h */; };
+		00C6438023881621DC64290DCCA1A0D4 /* UIButton+TouchSize.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A3F094FFD6C6C76DE7A87B628F65D35 /* UIButton+TouchSize.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		179D9ADF96E0C562B27114CFB52EEE4B /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 02C297E7DC75D5F91CC12846B964946F /* ReplaceMe.m */; };
+		1DAF991CB32F31300BF3439C7B0A72D6 /* UIButton+Animation.h in Headers */ = {isa = PBXBuildFile; fileRef = 67BA6FCB47E651EB0CF813493C19543E /* UIButton+Animation.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2994624A079B7EBB21730A9FB52E7482 /* UIButton+TouchSize.m in Sources */ = {isa = PBXBuildFile; fileRef = 95EABDA812BE5077DECAC82A241772BB /* UIButton+TouchSize.m */; };
+		2E090821E81F3B3DD27D5FDC7AD289E3 /* UIButton+Animation.m in Sources */ = {isa = PBXBuildFile; fileRef = 640C780474C662DF2D61EE3FF872DDAC /* UIButton+Animation.m */; };
+		3D4AB80828436FF800DCA32C /* YFComomModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 3D4AB80628436FF800DCA32C /* YFComomModel.h */; };
+		3D4AB80928436FF800DCA32C /* YFComomModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D4AB80728436FF800DCA32C /* YFComomModel.m */; };
+		3D4AB80C2843706700DCA32C /* YFBaseView.h in Headers */ = {isa = PBXBuildFile; fileRef = 3D4AB80A2843706700DCA32C /* YFBaseView.h */; };
+		3D4AB80D2843706700DCA32C /* YFBaseView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D4AB80B2843706700DCA32C /* YFBaseView.m */; };
 		4382434E37FBA26CA17BAAB8725D0CDB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		4454711CD4B36286236316C9A55941A3 /* SUIBoundsRoundButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 07A8AA0BD771AD0D8425A72589B9B693 /* SUIBoundsRoundButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4AD75F5267B623AAE1CECF4E905DD649 /* MyPrivateDemo-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DDE735B6D852E8D672470F01EBF9AE17 /* MyPrivateDemo-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4FCAA728561DDF0F874386414E634B03 /* UIButton+Basic.h in Headers */ = {isa = PBXBuildFile; fileRef = 30B27070813044FB75DE7104206EC754 /* UIButton+Basic.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5060C36DD3DB5822114BD553B7CF9201 /* Pods-MyPrivateDemo_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 5363CEB5C87ABCF1E8BF578276767CB6 /* Pods-MyPrivateDemo_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		59701659F9796043077846EF299E043F /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = FD44A59409686297B56CB65DE9567D75 /* ReplaceMe.m */; };
+		5576DE3B568F7B10DD1AD024C843D359 /* UIButton+Basic.m in Sources */ = {isa = PBXBuildFile; fileRef = FD3695D6CE7ABAF5D1918F0CF4E7961E /* UIButton+Basic.m */; };
 		5D9023610D59121C30A7951B8148AC52 /* Pods-MyPrivateDemo_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 36229B49D39890D83B3B4174814054CD /* Pods-MyPrivateDemo_Tests-dummy.m */; };
-		62E4DB9435244326D801248597881925 /* MyPrivateDemo-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 773510ADBC258E8B0810269EC573AD9E /* MyPrivateDemo-dummy.m */; };
-		6DFD2C28C5B853AD1AF371A6242875D6 /* MyPrivateDemo-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 92FF9D7449C247FA819D7B14923ED66C /* MyPrivateDemo-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		84AFA834058F1C949FA9CBE0F60D1311 /* Pods-MyPrivateDemo_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EF254C207436B1C24734DF0213D1CE34 /* Pods-MyPrivateDemo_Example-dummy.m */; };
 		86E536A0DF5DD364B9707F2DAA7D59C0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		9529131EEBF36BECDCF8308A91B7F4D1 /* Pods-MyPrivateDemo_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 108EF901CB752EC44F21F04B33CC3ADE /* Pods-MyPrivateDemo_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		960706565C5A926D37A3A8B97D2DD2FA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		CE5D162EB5B7F3DDEAAFB02F8FA16A60 /* ALUIButton.m in Sources */ = {isa = PBXBuildFile; fileRef = C49D9D4BE75CB97EF8D318B272EAD9D1 /* ALUIButton.m */; };
+		CEC84D34B7674068793B21583B83B2D7 /* MyPrivateDemo-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 221F4C5433ECA1F3F6B8777260CBF7B2 /* MyPrivateDemo-dummy.m */; };
+		D0B06A9FE9AAE7D4C0427C9A39B0E531 /* ALUIButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 092278F05417B89A969B26E04709ACBE /* ALUIButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F104BA1BE02173E9FC2B6EC9AEA2F2A3 /* SUIBoundsRoundButton.m in Sources */ = {isa = PBXBuildFile; fileRef = F1494A74BC8A2F3ACDDCE0508AB78E8D /* SUIBoundsRoundButton.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		5D71F649594C2DE17736912BDB91C7F0 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = CAB6E4D84E2CDD6B1DDF0BFC5E7BA566;
-			remoteInfo = MyPrivateDemo;
-		};
-		61F79887A58830EDD862AC9E5653BA44 /* PBXContainerItemProxy */ = {
+		42B1D967CB94AA812EB9CF8928B179B1 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 5F5AC2DC991CF2565878442F437EE5A0;
 			remoteInfo = "Pods-MyPrivateDemo_Example";
 		};
+		BAF08DBAEC24D053867D218C0D9E8943 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CAB6E4D84E2CDD6B1DDF0BFC5E7BA566;
+			remoteInfo = MyPrivateDemo;
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		018CA801F95D3DE415F80D4B35D6B735 /* MyPrivateDemo-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MyPrivateDemo-prefix.pch"; sourceTree = "<group>"; };
-		066EA2FC00095FB5AC2B3DBFA4F3C26D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		02C297E7DC75D5F91CC12846B964946F /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = MyPrivateDemo/Classes/ReplaceMe.m; sourceTree = "<group>"; };
+		07A8AA0BD771AD0D8425A72589B9B693 /* SUIBoundsRoundButton.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SUIBoundsRoundButton.h; sourceTree = "<group>"; };
+		092278F05417B89A969B26E04709ACBE /* ALUIButton.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ALUIButton.h; sourceTree = "<group>"; };
 		108EF901CB752EC44F21F04B33CC3ADE /* Pods-MyPrivateDemo_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MyPrivateDemo_Tests-umbrella.h"; sourceTree = "<group>"; };
 		1103128A6F1F37143D8E235D4675F256 /* Pods-MyPrivateDemo_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MyPrivateDemo_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		142FC0E40C3CA5621D7B42414AC1E0AE /* MyPrivateDemo */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MyPrivateDemo; path = MyPrivateDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		221F4C5433ECA1F3F6B8777260CBF7B2 /* MyPrivateDemo-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MyPrivateDemo-dummy.m"; sourceTree = "<group>"; };
+		30B27070813044FB75DE7104206EC754 /* UIButton+Basic.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIButton+Basic.h"; sourceTree = "<group>"; };
 		36229B49D39890D83B3B4174814054CD /* Pods-MyPrivateDemo_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MyPrivateDemo_Tests-dummy.m"; sourceTree = "<group>"; };
+		3A3F094FFD6C6C76DE7A87B628F65D35 /* UIButton+TouchSize.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIButton+TouchSize.h"; sourceTree = "<group>"; };
 		3A4081870C1D5EB6CC6652F78AE90C8E /* Pods-MyPrivateDemo_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MyPrivateDemo_Example.modulemap"; sourceTree = "<group>"; };
-		3D4AB7E728436D0500DCA32C /* UIButton+TouchSize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+TouchSize.h"; sourceTree = "<group>"; };
-		3D4AB7E828436D0500DCA32C /* ALUIButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ALUIButton.h; sourceTree = "<group>"; };
-		3D4AB7EA28436D0500DCA32C /* UIButton+Position.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+Position.m"; sourceTree = "<group>"; };
-		3D4AB7EB28436D0500DCA32C /* UIButton+Basic.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+Basic.m"; sourceTree = "<group>"; };
-		3D4AB7EC28436D0500DCA32C /* UIButton+Position.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+Position.h"; sourceTree = "<group>"; };
-		3D4AB7ED28436D0500DCA32C /* UIButton+Basic.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+Basic.h"; sourceTree = "<group>"; };
-		3D4AB7EF28436D0500DCA32C /* UIButton+Animation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+Animation.m"; sourceTree = "<group>"; };
-		3D4AB7F028436D0500DCA32C /* UIButton+Animation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+Animation.h"; sourceTree = "<group>"; };
-		3D4AB7F128436D0500DCA32C /* ALUIButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ALUIButton.m; sourceTree = "<group>"; };
-		3D4AB7F228436D0500DCA32C /* UIButton+TouchSize.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+TouchSize.m"; sourceTree = "<group>"; };
-		3D4AB7F428436D0500DCA32C /* SUIBoundsRoundButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SUIBoundsRoundButton.m; sourceTree = "<group>"; };
-		3D4AB7F528436D0500DCA32C /* SUIBoundsRoundButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SUIBoundsRoundButton.h; sourceTree = "<group>"; };
+		3D4AB80628436FF800DCA32C /* YFComomModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = YFComomModel.h; path = MyPrivateDemo/Classes/YFComomModel.h; sourceTree = "<group>"; };
+		3D4AB80728436FF800DCA32C /* YFComomModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = YFComomModel.m; path = MyPrivateDemo/Classes/YFComomModel.m; sourceTree = "<group>"; };
+		3D4AB80A2843706700DCA32C /* YFBaseView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = YFBaseView.h; path = MyPrivateDemo/Classes/YFBaseView.h; sourceTree = "<group>"; };
+		3D4AB80B2843706700DCA32C /* YFBaseView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = YFBaseView.m; path = MyPrivateDemo/Classes/YFBaseView.m; sourceTree = "<group>"; };
+		479459260F19B92542D49955A6004A47 /* MyPrivateDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MyPrivateDemo.release.xcconfig; sourceTree = "<group>"; };
 		49BD7E6FF4F164E6D5647B349420BC66 /* Pods-MyPrivateDemo_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MyPrivateDemo_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		5102FAAFDE37204DBFD9F3739EC6F319 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		5363CEB5C87ABCF1E8BF578276767CB6 /* Pods-MyPrivateDemo_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MyPrivateDemo_Example-umbrella.h"; sourceTree = "<group>"; };
-		5812EE37E602E25B39077A5639F5309D /* MyPrivateDemo.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MyPrivateDemo.modulemap; sourceTree = "<group>"; };
 		5F70C5D64C10B3E975AFEAA267148315 /* Pods-MyPrivateDemo_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MyPrivateDemo_Example-Info.plist"; sourceTree = "<group>"; };
-		6477A433B5502392FD71EA61720E9693 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		617F7F87B30D2BCCF232322FE1317871 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		640C780474C662DF2D61EE3FF872DDAC /* UIButton+Animation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIButton+Animation.m"; sourceTree = "<group>"; };
 		6744724C2BD6949946753741C6E988FE /* Pods-MyPrivateDemo_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MyPrivateDemo_Tests-Info.plist"; sourceTree = "<group>"; };
+		67BA6FCB47E651EB0CF813493C19543E /* UIButton+Animation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIButton+Animation.h"; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		773510ADBC258E8B0810269EC573AD9E /* MyPrivateDemo-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MyPrivateDemo-dummy.m"; sourceTree = "<group>"; };
-		8FB167CA5B7E118AF5DA34235C39A500 /* MyPrivateDemo.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = MyPrivateDemo.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		92FF9D7449C247FA819D7B14923ED66C /* MyPrivateDemo-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MyPrivateDemo-umbrella.h"; sourceTree = "<group>"; };
+		95EABDA812BE5077DECAC82A241772BB /* UIButton+TouchSize.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIButton+TouchSize.m"; sourceTree = "<group>"; };
 		9B369248D51301B5E5BC2016407E06B6 /* Pods-MyPrivateDemo_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MyPrivateDemo_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A40F12BD35377D41E4C0E3104066A9B8 /* MyPrivateDemo-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "MyPrivateDemo-Info.plist"; sourceTree = "<group>"; };
 		A71B9EF4AA1EC18FC62EB1DD3821FD06 /* Pods-MyPrivateDemo_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MyPrivateDemo_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		AC8ED7C75C8EE3DC8743631C50636767 /* Pods-MyPrivateDemo_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MyPrivateDemo_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		B040C65FACC04EF44DE2312ED3214040 /* Pods-MyPrivateDemo_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MyPrivateDemo_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		B23B22A28974B56A7A464D450B31BE98 /* Pods-MyPrivateDemo_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-MyPrivateDemo_Tests"; path = Pods_MyPrivateDemo_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B263098ADD563BE403824DCC1908F890 /* Pods-MyPrivateDemo_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MyPrivateDemo_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		B5328A34F4BED7477D4F0B4DDFAD6CE9 /* Pods-MyPrivateDemo_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-MyPrivateDemo_Example"; path = Pods_MyPrivateDemo_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		B6A486BB5571032C5A70867A30D82D7E /* MyPrivateDemo-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "MyPrivateDemo-Info.plist"; sourceTree = "<group>"; };
+		C49D9D4BE75CB97EF8D318B272EAD9D1 /* ALUIButton.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ALUIButton.m; sourceTree = "<group>"; };
+		C5993843A55231EB1C9E3018CFE871BE /* MyPrivateDemo-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MyPrivateDemo-prefix.pch"; sourceTree = "<group>"; };
+		C59EACBF3D017AC51B25122A6C99C123 /* MyPrivateDemo.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = MyPrivateDemo.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		CA0D32816F12106D21DF1B7F7B350EA6 /* Pods-MyPrivateDemo_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MyPrivateDemo_Tests.modulemap"; sourceTree = "<group>"; };
+		CA228A25E00EAF1E28D84E04404A42F4 /* MyPrivateDemo.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MyPrivateDemo.modulemap; sourceTree = "<group>"; };
 		CD048BFD79652F325C79700136F655C3 /* Pods-MyPrivateDemo_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MyPrivateDemo_Example.release.xcconfig"; sourceTree = "<group>"; };
-		CD797AE203E0AC69985B713B265021AB /* MyPrivateDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MyPrivateDemo.debug.xcconfig; sourceTree = "<group>"; };
-		EDAC1F62F58DFC9B78183A15BDF2A21F /* MyPrivateDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MyPrivateDemo.release.xcconfig; sourceTree = "<group>"; };
+		D8D880DB1B84D6A38AA39480FEE6C45F /* MyPrivateDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MyPrivateDemo.debug.xcconfig; sourceTree = "<group>"; };
+		DDE735B6D852E8D672470F01EBF9AE17 /* MyPrivateDemo-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MyPrivateDemo-umbrella.h"; sourceTree = "<group>"; };
 		EF254C207436B1C24734DF0213D1CE34 /* Pods-MyPrivateDemo_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MyPrivateDemo_Example-dummy.m"; sourceTree = "<group>"; };
+		F1494A74BC8A2F3ACDDCE0508AB78E8D /* SUIBoundsRoundButton.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SUIBoundsRoundButton.m; sourceTree = "<group>"; };
 		F76AC80081F420A3A5172D7202B970EA /* Pods-MyPrivateDemo_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MyPrivateDemo_Example-frameworks.sh"; sourceTree = "<group>"; };
-		FD44A59409686297B56CB65DE9567D75 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = MyPrivateDemo/Classes/ReplaceMe.m; sourceTree = "<group>"; };
+		FD3695D6CE7ABAF5D1918F0CF4E7961E /* UIButton+Basic.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIButton+Basic.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		1C75EC70D0E0A5690B942444E2D842BE /* Frameworks */ = {
+		2AFC93BB8A92A0CA8E0D3D0168CF716E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1FDB8039F465A82D73312299006FE417 /* Foundation.framework in Frameworks */,
+				960706565C5A926D37A3A8B97D2DD2FA /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -157,48 +161,46 @@
 			path = "Target Support Files/Pods-MyPrivateDemo_Example";
 			sourceTree = "<group>";
 		};
-		3D4AB7E628436D0500DCA32C /* Button */ = {
+		3549CDA69BA0AD357DCB8E50B1EF5E30 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				3D4AB7E728436D0500DCA32C /* UIButton+TouchSize.h */,
-				3D4AB7E828436D0500DCA32C /* ALUIButton.h */,
-				3D4AB7E928436D0500DCA32C /* Basic */,
-				3D4AB7EE28436D0500DCA32C /* Animation */,
-				3D4AB7F128436D0500DCA32C /* ALUIButton.m */,
-				3D4AB7F228436D0500DCA32C /* UIButton+TouchSize.m */,
-				3D4AB7F328436D0500DCA32C /* Round */,
+				9783860BA47C838D5F28D88BA934AD44 /* MyPrivateDemo */,
 			);
-			name = Button;
-			path = MyPrivateDemo/Classes/Button;
+			name = "Development Pods";
 			sourceTree = "<group>";
 		};
-		3D4AB7E928436D0500DCA32C /* Basic */ = {
+		436FE8843BD3E92C24D3C4D590F6A28B /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				3D4AB7EA28436D0500DCA32C /* UIButton+Position.m */,
-				3D4AB7EB28436D0500DCA32C /* UIButton+Basic.m */,
-				3D4AB7EC28436D0500DCA32C /* UIButton+Position.h */,
-				3D4AB7ED28436D0500DCA32C /* UIButton+Basic.h */,
+				5102FAAFDE37204DBFD9F3739EC6F319 /* LICENSE */,
+				C59EACBF3D017AC51B25122A6C99C123 /* MyPrivateDemo.podspec */,
+				617F7F87B30D2BCCF232322FE1317871 /* README.md */,
 			);
-			path = Basic;
+			name = Pod;
 			sourceTree = "<group>";
 		};
-		3D4AB7EE28436D0500DCA32C /* Animation */ = {
+		49344DF3546647B1217F6B366586CB8E /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				3D4AB7EF28436D0500DCA32C /* UIButton+Animation.m */,
-				3D4AB7F028436D0500DCA32C /* UIButton+Animation.h */,
+				CA228A25E00EAF1E28D84E04404A42F4 /* MyPrivateDemo.modulemap */,
+				221F4C5433ECA1F3F6B8777260CBF7B2 /* MyPrivateDemo-dummy.m */,
+				A40F12BD35377D41E4C0E3104066A9B8 /* MyPrivateDemo-Info.plist */,
+				C5993843A55231EB1C9E3018CFE871BE /* MyPrivateDemo-prefix.pch */,
+				DDE735B6D852E8D672470F01EBF9AE17 /* MyPrivateDemo-umbrella.h */,
+				D8D880DB1B84D6A38AA39480FEE6C45F /* MyPrivateDemo.debug.xcconfig */,
+				479459260F19B92542D49955A6004A47 /* MyPrivateDemo.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/MyPrivateDemo";
+			sourceTree = "<group>";
+		};
+		4B7F9B8057570A9CBB54FF2A8116D80B /* Animation */ = {
+			isa = PBXGroup;
+			children = (
+				67BA6FCB47E651EB0CF813493C19543E /* UIButton+Animation.h */,
+				640C780474C662DF2D61EE3FF872DDAC /* UIButton+Animation.m */,
 			);
 			path = Animation;
-			sourceTree = "<group>";
-		};
-		3D4AB7F328436D0500DCA32C /* Round */ = {
-			isa = PBXGroup;
-			children = (
-				3D4AB7F428436D0500DCA32C /* SUIBoundsRoundButton.m */,
-				3D4AB7F528436D0500DCA32C /* SUIBoundsRoundButton.h */,
-			);
-			path = Round;
 			sourceTree = "<group>";
 		};
 		578452D2E740E91742655AC8F1636D1F /* iOS */ = {
@@ -209,19 +211,13 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
-		73112EE95021C3A5E05E824CB223C3A4 /* Support Files */ = {
+		5A0A298A0078502218BE84093684CD31 /* Basic */ = {
 			isa = PBXGroup;
 			children = (
-				5812EE37E602E25B39077A5639F5309D /* MyPrivateDemo.modulemap */,
-				773510ADBC258E8B0810269EC573AD9E /* MyPrivateDemo-dummy.m */,
-				B6A486BB5571032C5A70867A30D82D7E /* MyPrivateDemo-Info.plist */,
-				018CA801F95D3DE415F80D4B35D6B735 /* MyPrivateDemo-prefix.pch */,
-				92FF9D7449C247FA819D7B14923ED66C /* MyPrivateDemo-umbrella.h */,
-				CD797AE203E0AC69985B713B265021AB /* MyPrivateDemo.debug.xcconfig */,
-				EDAC1F62F58DFC9B78183A15BDF2A21F /* MyPrivateDemo.release.xcconfig */,
+				30B27070813044FB75DE7104206EC754 /* UIButton+Basic.h */,
+				FD3695D6CE7ABAF5D1918F0CF4E7961E /* UIButton+Basic.m */,
 			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/MyPrivateDemo";
+			path = Basic;
 			sourceTree = "<group>";
 		};
 		7D4CE433748018F09279FA35990CA695 /* Products */ = {
@@ -234,13 +230,17 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A34E263D4EA3E79FF6504EF38796F00E /* MyPrivateDemo */ = {
+		9783860BA47C838D5F28D88BA934AD44 /* MyPrivateDemo */ = {
 			isa = PBXGroup;
 			children = (
-				3D4AB7E628436D0500DCA32C /* Button */,
-				FD44A59409686297B56CB65DE9567D75 /* ReplaceMe.m */,
-				C27924B55F4A5E12A87403DF21CC6859 /* Pod */,
-				73112EE95021C3A5E05E824CB223C3A4 /* Support Files */,
+				02C297E7DC75D5F91CC12846B964946F /* ReplaceMe.m */,
+				B1B159B984E2BC0C024C93D4A3486E47 /* Button */,
+				436FE8843BD3E92C24D3C4D590F6A28B /* Pod */,
+				49344DF3546647B1217F6B366586CB8E /* Support Files */,
+				3D4AB80628436FF800DCA32C /* YFComomModel.h */,
+				3D4AB80728436FF800DCA32C /* YFComomModel.m */,
+				3D4AB80A2843706700DCA32C /* YFBaseView.h */,
+				3D4AB80B2843706700DCA32C /* YFBaseView.m */,
 			);
 			name = MyPrivateDemo;
 			path = ../..;
@@ -255,33 +255,30 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		C27924B55F4A5E12A87403DF21CC6859 /* Pod */ = {
+		B1B159B984E2BC0C024C93D4A3486E47 /* Button */ = {
 			isa = PBXGroup;
 			children = (
-				066EA2FC00095FB5AC2B3DBFA4F3C26D /* LICENSE */,
-				8FB167CA5B7E118AF5DA34235C39A500 /* MyPrivateDemo.podspec */,
-				6477A433B5502392FD71EA61720E9693 /* README.md */,
+				092278F05417B89A969B26E04709ACBE /* ALUIButton.h */,
+				C49D9D4BE75CB97EF8D318B272EAD9D1 /* ALUIButton.m */,
+				3A3F094FFD6C6C76DE7A87B628F65D35 /* UIButton+TouchSize.h */,
+				95EABDA812BE5077DECAC82A241772BB /* UIButton+TouchSize.m */,
+				4B7F9B8057570A9CBB54FF2A8116D80B /* Animation */,
+				5A0A298A0078502218BE84093684CD31 /* Basic */,
+				E69CFF669252004B733EF3285E87A361 /* Round */,
 			);
-			name = Pod;
+			name = Button;
+			path = MyPrivateDemo/Classes/Button;
 			sourceTree = "<group>";
 		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				CFA1018E392299524EE585C8471DAFC3 /* Development Pods */,
+				3549CDA69BA0AD357DCB8E50B1EF5E30 /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
 				7D4CE433748018F09279FA35990CA695 /* Products */,
 				A43A06F96824120E4AB6DD42CE2950A0 /* Targets Support Files */,
 			);
-			sourceTree = "<group>";
-		};
-		CFA1018E392299524EE585C8471DAFC3 /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				A34E263D4EA3E79FF6504EF38796F00E /* MyPrivateDemo */,
-			);
-			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */ = {
@@ -290,6 +287,15 @@
 				578452D2E740E91742655AC8F1636D1F /* iOS */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		E69CFF669252004B733EF3285E87A361 /* Round */ = {
+			isa = PBXGroup;
+			children = (
+				07A8AA0BD771AD0D8425A72589B9B693 /* SUIBoundsRoundButton.h */,
+				F1494A74BC8A2F3ACDDCE0508AB78E8D /* SUIBoundsRoundButton.m */,
+			);
+			path = Round;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -311,17 +317,18 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A20BA6E6FC79140FE8E3545AACD464DE /* Headers */ = {
+		BE1DDBCED5CF6659C242806EEF821B7A /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6DFD2C28C5B853AD1AF371A6242875D6 /* MyPrivateDemo-umbrella.h in Headers */,
-				3D4AB7F728436D0500DCA32C /* ALUIButton.h in Headers */,
-				3D4AB7F628436D0500DCA32C /* UIButton+TouchSize.h in Headers */,
-				3D4AB7FD28436D0500DCA32C /* UIButton+Animation.h in Headers */,
-				3D4AB7FB28436D0500DCA32C /* UIButton+Basic.h in Headers */,
-				3D4AB80128436D0500DCA32C /* SUIBoundsRoundButton.h in Headers */,
-				3D4AB7FA28436D0500DCA32C /* UIButton+Position.h in Headers */,
+				D0B06A9FE9AAE7D4C0427C9A39B0E531 /* ALUIButton.h in Headers */,
+				4AD75F5267B623AAE1CECF4E905DD649 /* MyPrivateDemo-umbrella.h in Headers */,
+				4454711CD4B36286236316C9A55941A3 /* SUIBoundsRoundButton.h in Headers */,
+				1DAF991CB32F31300BF3439C7B0A72D6 /* UIButton+Animation.h in Headers */,
+				4FCAA728561DDF0F874386414E634B03 /* UIButton+Basic.h in Headers */,
+				00C6438023881621DC64290DCCA1A0D4 /* UIButton+TouchSize.h in Headers */,
+				3D4AB80C2843706700DCA32C /* YFBaseView.h in Headers */,
+				3D4AB80828436FF800DCA32C /* YFComomModel.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -340,7 +347,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				E859C547BE1B9A7FF453A787B8C2C37C /* PBXTargetDependency */,
+				F1A2AEC9CA9E925155D8D3709DD1DD51 /* PBXTargetDependency */,
 			);
 			name = "Pods-MyPrivateDemo_Tests";
 			productName = Pods_MyPrivateDemo_Tests;
@@ -359,7 +366,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				E0E95686D2152425DC7E17747485E2C6 /* PBXTargetDependency */,
+				A0C780C200B418CA11E6379B7100F75B /* PBXTargetDependency */,
 			);
 			name = "Pods-MyPrivateDemo_Example";
 			productName = Pods_MyPrivateDemo_Example;
@@ -368,12 +375,12 @@
 		};
 		CAB6E4D84E2CDD6B1DDF0BFC5E7BA566 /* MyPrivateDemo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D4A67EE823D0A573822AB3861993CD47 /* Build configuration list for PBXNativeTarget "MyPrivateDemo" */;
+			buildConfigurationList = 2ADCF8790CA9D9A4743F22E23B2620A0 /* Build configuration list for PBXNativeTarget "MyPrivateDemo" */;
 			buildPhases = (
-				A20BA6E6FC79140FE8E3545AACD464DE /* Headers */,
-				197964BD9BEDF1FFBFC6B926B104B758 /* Sources */,
-				1C75EC70D0E0A5690B942444E2D842BE /* Frameworks */,
-				57473A18D79327F10867959F4725D755 /* Resources */,
+				BE1DDBCED5CF6659C242806EEF821B7A /* Headers */,
+				EB5D9D5B3A9A6E773DFA65EE1B0FABD1 /* Sources */,
+				2AFC93BB8A92A0CA8E0D3D0168CF716E /* Frameworks */,
+				7FDF98A33930FC7014B697A5E6A2001C /* Resources */,
 			);
 			buildRules = (
 			);
@@ -414,7 +421,7 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		57473A18D79327F10867959F4725D755 /* Resources */ = {
+		7FDF98A33930FC7014B697A5E6A2001C /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -438,26 +445,27 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		197964BD9BEDF1FFBFC6B926B104B758 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				62E4DB9435244326D801248597881925 /* MyPrivateDemo-dummy.m in Sources */,
-				3D4AB80028436D0500DCA32C /* SUIBoundsRoundButton.m in Sources */,
-				59701659F9796043077846EF299E043F /* ReplaceMe.m in Sources */,
-				3D4AB7FE28436D0500DCA32C /* ALUIButton.m in Sources */,
-				3D4AB7F928436D0500DCA32C /* UIButton+Basic.m in Sources */,
-				3D4AB7F828436D0500DCA32C /* UIButton+Position.m in Sources */,
-				3D4AB7FF28436D0500DCA32C /* UIButton+TouchSize.m in Sources */,
-				3D4AB7FC28436D0500DCA32C /* UIButton+Animation.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		3E4F9F66FF525C7E4F3B00DABEAD583A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				84AFA834058F1C949FA9CBE0F60D1311 /* Pods-MyPrivateDemo_Example-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EB5D9D5B3A9A6E773DFA65EE1B0FABD1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CE5D162EB5B7F3DDEAAFB02F8FA16A60 /* ALUIButton.m in Sources */,
+				CEC84D34B7674068793B21583B83B2D7 /* MyPrivateDemo-dummy.m in Sources */,
+				179D9ADF96E0C562B27114CFB52EEE4B /* ReplaceMe.m in Sources */,
+				3D4AB80928436FF800DCA32C /* YFComomModel.m in Sources */,
+				F104BA1BE02173E9FC2B6EC9AEA2F2A3 /* SUIBoundsRoundButton.m in Sources */,
+				2E090821E81F3B3DD27D5FDC7AD289E3 /* UIButton+Animation.m in Sources */,
+				5576DE3B568F7B10DD1AD024C843D359 /* UIButton+Basic.m in Sources */,
+				3D4AB80D2843706700DCA32C /* YFBaseView.m in Sources */,
+				2994624A079B7EBB21730A9FB52E7482 /* UIButton+TouchSize.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -472,17 +480,17 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		E0E95686D2152425DC7E17747485E2C6 /* PBXTargetDependency */ = {
+		A0C780C200B418CA11E6379B7100F75B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = MyPrivateDemo;
 			target = CAB6E4D84E2CDD6B1DDF0BFC5E7BA566 /* MyPrivateDemo */;
-			targetProxy = 5D71F649594C2DE17736912BDB91C7F0 /* PBXContainerItemProxy */;
+			targetProxy = BAF08DBAEC24D053867D218C0D9E8943 /* PBXContainerItemProxy */;
 		};
-		E859C547BE1B9A7FF453A787B8C2C37C /* PBXTargetDependency */ = {
+		F1A2AEC9CA9E925155D8D3709DD1DD51 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-MyPrivateDemo_Example";
 			target = 5F5AC2DC991CF2565878442F437EE5A0 /* Pods-MyPrivateDemo_Example */;
-			targetProxy = 61F79887A58830EDD862AC9E5653BA44 /* PBXContainerItemProxy */;
+			targetProxy = 42B1D967CB94AA812EB9CF8928B179B1 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -683,9 +691,9 @@
 			};
 			name = Release;
 		};
-		8A1AE45F5EE39D45192103D9B07934A0 /* Release */ = {
+		BD92A57F8D50F5B614B130BC48036704 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EDAC1F62F58DFC9B78183A15BDF2A21F /* MyPrivateDemo.release.xcconfig */;
+			baseConfigurationReference = 479459260F19B92542D49955A6004A47 /* MyPrivateDemo.release.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -775,9 +783,9 @@
 			};
 			name = Release;
 		};
-		CAB44C8124C13C3AF93A78531FECD30B /* Debug */ = {
+		F2548A017F32E98526C9DFFDD857CEAE /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CD797AE203E0AC69985B713B265021AB /* MyPrivateDemo.debug.xcconfig */;
+			baseConfigurationReference = D8D880DB1B84D6A38AA39480FEE6C45F /* MyPrivateDemo.debug.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -817,20 +825,20 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+		2ADCF8790CA9D9A4743F22E23B2620A0 /* Build configuration list for PBXNativeTarget "MyPrivateDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F2548A017F32E98526C9DFFDD857CEAE /* Debug */,
+				BD92A57F8D50F5B614B130BC48036704 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				25AD9454612BF454A1E3DC4CD4FA8C6D /* Debug */,
 				CA547D2C7E9A8A153DC2B27FBE00B112 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		D4A67EE823D0A573822AB3861993CD47 /* Build configuration list for PBXNativeTarget "MyPrivateDemo" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				CAB44C8124C13C3AF93A78531FECD30B /* Debug */,
-				8A1AE45F5EE39D45192103D9B07934A0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
