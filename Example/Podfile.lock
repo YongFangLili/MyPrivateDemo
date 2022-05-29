@@ -1,5 +1,5 @@
 PODS:
-  - MyPrivateDemo (0.1.0)
+  - MyPrivateDemo (0.1.2)
 
 DEPENDENCIES:
   - MyPrivateDemo (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MyPrivateDemo: bdf3675ee5ba049b46e0c4cdd865c699a531d79e
+  MyPrivateDemo: e9f37ca63e94b84ed117f407819ed6ea25291bee
 
 PODFILE CHECKSUM: 2c71564ca3281f99a5a86c7656cddf70dff2bf11
 

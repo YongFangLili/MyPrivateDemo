@@ -8,18 +8,18 @@
 
 /* Begin PBXBuildFile section */
 		1FDB8039F465A82D73312299006FE417 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		3D4AB7BE2843255E00DCA32C /* UIButton+TouchSize.h in Headers */ = {isa = PBXBuildFile; fileRef = 3D4AB7AF2843255E00DCA32C /* UIButton+TouchSize.h */; };
-		3D4AB7BF2843255E00DCA32C /* ALUIButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 3D4AB7B02843255E00DCA32C /* ALUIButton.h */; };
-		3D4AB7C02843255E00DCA32C /* UIButton+Position.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D4AB7B22843255E00DCA32C /* UIButton+Position.m */; };
-		3D4AB7C12843255E00DCA32C /* UIButton+Basic.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D4AB7B32843255E00DCA32C /* UIButton+Basic.m */; };
-		3D4AB7C22843255E00DCA32C /* UIButton+Position.h in Headers */ = {isa = PBXBuildFile; fileRef = 3D4AB7B42843255E00DCA32C /* UIButton+Position.h */; };
-		3D4AB7C32843255E00DCA32C /* UIButton+Basic.h in Headers */ = {isa = PBXBuildFile; fileRef = 3D4AB7B52843255E00DCA32C /* UIButton+Basic.h */; };
-		3D4AB7C42843255E00DCA32C /* UIButton+Animation.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D4AB7B72843255E00DCA32C /* UIButton+Animation.m */; };
-		3D4AB7C52843255E00DCA32C /* UIButton+Animation.h in Headers */ = {isa = PBXBuildFile; fileRef = 3D4AB7B82843255E00DCA32C /* UIButton+Animation.h */; };
-		3D4AB7C62843255E00DCA32C /* ALUIButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D4AB7B92843255E00DCA32C /* ALUIButton.m */; };
-		3D4AB7C72843255E00DCA32C /* UIButton+TouchSize.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D4AB7BA2843255E00DCA32C /* UIButton+TouchSize.m */; };
-		3D4AB7C82843255E00DCA32C /* SUIBoundsRoundButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D4AB7BC2843255E00DCA32C /* SUIBoundsRoundButton.m */; };
-		3D4AB7C92843255E00DCA32C /* SUIBoundsRoundButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 3D4AB7BD2843255E00DCA32C /* SUIBoundsRoundButton.h */; };
+		3D4AB7F628436D0500DCA32C /* UIButton+TouchSize.h in Headers */ = {isa = PBXBuildFile; fileRef = 3D4AB7E728436D0500DCA32C /* UIButton+TouchSize.h */; };
+		3D4AB7F728436D0500DCA32C /* ALUIButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 3D4AB7E828436D0500DCA32C /* ALUIButton.h */; };
+		3D4AB7F828436D0500DCA32C /* UIButton+Position.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D4AB7EA28436D0500DCA32C /* UIButton+Position.m */; };
+		3D4AB7F928436D0500DCA32C /* UIButton+Basic.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D4AB7EB28436D0500DCA32C /* UIButton+Basic.m */; };
+		3D4AB7FA28436D0500DCA32C /* UIButton+Position.h in Headers */ = {isa = PBXBuildFile; fileRef = 3D4AB7EC28436D0500DCA32C /* UIButton+Position.h */; };
+		3D4AB7FB28436D0500DCA32C /* UIButton+Basic.h in Headers */ = {isa = PBXBuildFile; fileRef = 3D4AB7ED28436D0500DCA32C /* UIButton+Basic.h */; };
+		3D4AB7FC28436D0500DCA32C /* UIButton+Animation.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D4AB7EF28436D0500DCA32C /* UIButton+Animation.m */; };
+		3D4AB7FD28436D0500DCA32C /* UIButton+Animation.h in Headers */ = {isa = PBXBuildFile; fileRef = 3D4AB7F028436D0500DCA32C /* UIButton+Animation.h */; };
+		3D4AB7FE28436D0500DCA32C /* ALUIButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D4AB7F128436D0500DCA32C /* ALUIButton.m */; };
+		3D4AB7FF28436D0500DCA32C /* UIButton+TouchSize.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D4AB7F228436D0500DCA32C /* UIButton+TouchSize.m */; };
+		3D4AB80028436D0500DCA32C /* SUIBoundsRoundButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D4AB7F428436D0500DCA32C /* SUIBoundsRoundButton.m */; };
+		3D4AB80128436D0500DCA32C /* SUIBoundsRoundButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 3D4AB7F528436D0500DCA32C /* SUIBoundsRoundButton.h */; };
 		4382434E37FBA26CA17BAAB8725D0CDB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		5060C36DD3DB5822114BD553B7CF9201 /* Pods-MyPrivateDemo_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 5363CEB5C87ABCF1E8BF578276767CB6 /* Pods-MyPrivateDemo_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		59701659F9796043077846EF299E043F /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = FD44A59409686297B56CB65DE9567D75 /* ReplaceMe.m */; };
@@ -56,18 +56,18 @@
 		142FC0E40C3CA5621D7B42414AC1E0AE /* MyPrivateDemo */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MyPrivateDemo; path = MyPrivateDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		36229B49D39890D83B3B4174814054CD /* Pods-MyPrivateDemo_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MyPrivateDemo_Tests-dummy.m"; sourceTree = "<group>"; };
 		3A4081870C1D5EB6CC6652F78AE90C8E /* Pods-MyPrivateDemo_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MyPrivateDemo_Example.modulemap"; sourceTree = "<group>"; };
-		3D4AB7AF2843255E00DCA32C /* UIButton+TouchSize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+TouchSize.h"; sourceTree = "<group>"; };
-		3D4AB7B02843255E00DCA32C /* ALUIButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ALUIButton.h; sourceTree = "<group>"; };
-		3D4AB7B22843255E00DCA32C /* UIButton+Position.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+Position.m"; sourceTree = "<group>"; };
-		3D4AB7B32843255E00DCA32C /* UIButton+Basic.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+Basic.m"; sourceTree = "<group>"; };
-		3D4AB7B42843255E00DCA32C /* UIButton+Position.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+Position.h"; sourceTree = "<group>"; };
-		3D4AB7B52843255E00DCA32C /* UIButton+Basic.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+Basic.h"; sourceTree = "<group>"; };
-		3D4AB7B72843255E00DCA32C /* UIButton+Animation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+Animation.m"; sourceTree = "<group>"; };
-		3D4AB7B82843255E00DCA32C /* UIButton+Animation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+Animation.h"; sourceTree = "<group>"; };
-		3D4AB7B92843255E00DCA32C /* ALUIButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ALUIButton.m; sourceTree = "<group>"; };
-		3D4AB7BA2843255E00DCA32C /* UIButton+TouchSize.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+TouchSize.m"; sourceTree = "<group>"; };
-		3D4AB7BC2843255E00DCA32C /* SUIBoundsRoundButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SUIBoundsRoundButton.m; sourceTree = "<group>"; };
-		3D4AB7BD2843255E00DCA32C /* SUIBoundsRoundButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SUIBoundsRoundButton.h; sourceTree = "<group>"; };
+		3D4AB7E728436D0500DCA32C /* UIButton+TouchSize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+TouchSize.h"; sourceTree = "<group>"; };
+		3D4AB7E828436D0500DCA32C /* ALUIButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ALUIButton.h; sourceTree = "<group>"; };
+		3D4AB7EA28436D0500DCA32C /* UIButton+Position.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+Position.m"; sourceTree = "<group>"; };
+		3D4AB7EB28436D0500DCA32C /* UIButton+Basic.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+Basic.m"; sourceTree = "<group>"; };
+		3D4AB7EC28436D0500DCA32C /* UIButton+Position.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+Position.h"; sourceTree = "<group>"; };
+		3D4AB7ED28436D0500DCA32C /* UIButton+Basic.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+Basic.h"; sourceTree = "<group>"; };
+		3D4AB7EF28436D0500DCA32C /* UIButton+Animation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+Animation.m"; sourceTree = "<group>"; };
+		3D4AB7F028436D0500DCA32C /* UIButton+Animation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+Animation.h"; sourceTree = "<group>"; };
+		3D4AB7F128436D0500DCA32C /* ALUIButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ALUIButton.m; sourceTree = "<group>"; };
+		3D4AB7F228436D0500DCA32C /* UIButton+TouchSize.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+TouchSize.m"; sourceTree = "<group>"; };
+		3D4AB7F428436D0500DCA32C /* SUIBoundsRoundButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SUIBoundsRoundButton.m; sourceTree = "<group>"; };
+		3D4AB7F528436D0500DCA32C /* SUIBoundsRoundButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SUIBoundsRoundButton.h; sourceTree = "<group>"; };
 		49BD7E6FF4F164E6D5647B349420BC66 /* Pods-MyPrivateDemo_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MyPrivateDemo_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		5363CEB5C87ABCF1E8BF578276767CB6 /* Pods-MyPrivateDemo_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MyPrivateDemo_Example-umbrella.h"; sourceTree = "<group>"; };
 		5812EE37E602E25B39077A5639F5309D /* MyPrivateDemo.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MyPrivateDemo.modulemap; sourceTree = "<group>"; };
@@ -157,45 +157,46 @@
 			path = "Target Support Files/Pods-MyPrivateDemo_Example";
 			sourceTree = "<group>";
 		};
-		3D4AB7AE2843255E00DCA32C /* Button */ = {
+		3D4AB7E628436D0500DCA32C /* Button */ = {
 			isa = PBXGroup;
 			children = (
-				3D4AB7AF2843255E00DCA32C /* UIButton+TouchSize.h */,
-				3D4AB7B02843255E00DCA32C /* ALUIButton.h */,
-				3D4AB7B12843255E00DCA32C /* Basic */,
-				3D4AB7B62843255E00DCA32C /* Animation */,
-				3D4AB7B92843255E00DCA32C /* ALUIButton.m */,
-				3D4AB7BA2843255E00DCA32C /* UIButton+TouchSize.m */,
-				3D4AB7BB2843255E00DCA32C /* Round */,
+				3D4AB7E728436D0500DCA32C /* UIButton+TouchSize.h */,
+				3D4AB7E828436D0500DCA32C /* ALUIButton.h */,
+				3D4AB7E928436D0500DCA32C /* Basic */,
+				3D4AB7EE28436D0500DCA32C /* Animation */,
+				3D4AB7F128436D0500DCA32C /* ALUIButton.m */,
+				3D4AB7F228436D0500DCA32C /* UIButton+TouchSize.m */,
+				3D4AB7F328436D0500DCA32C /* Round */,
 			);
-			path = Button;
+			name = Button;
+			path = MyPrivateDemo/Classes/Button;
 			sourceTree = "<group>";
 		};
-		3D4AB7B12843255E00DCA32C /* Basic */ = {
+		3D4AB7E928436D0500DCA32C /* Basic */ = {
 			isa = PBXGroup;
 			children = (
-				3D4AB7B22843255E00DCA32C /* UIButton+Position.m */,
-				3D4AB7B32843255E00DCA32C /* UIButton+Basic.m */,
-				3D4AB7B42843255E00DCA32C /* UIButton+Position.h */,
-				3D4AB7B52843255E00DCA32C /* UIButton+Basic.h */,
+				3D4AB7EA28436D0500DCA32C /* UIButton+Position.m */,
+				3D4AB7EB28436D0500DCA32C /* UIButton+Basic.m */,
+				3D4AB7EC28436D0500DCA32C /* UIButton+Position.h */,
+				3D4AB7ED28436D0500DCA32C /* UIButton+Basic.h */,
 			);
 			path = Basic;
 			sourceTree = "<group>";
 		};
-		3D4AB7B62843255E00DCA32C /* Animation */ = {
+		3D4AB7EE28436D0500DCA32C /* Animation */ = {
 			isa = PBXGroup;
 			children = (
-				3D4AB7B72843255E00DCA32C /* UIButton+Animation.m */,
-				3D4AB7B82843255E00DCA32C /* UIButton+Animation.h */,
+				3D4AB7EF28436D0500DCA32C /* UIButton+Animation.m */,
+				3D4AB7F028436D0500DCA32C /* UIButton+Animation.h */,
 			);
 			path = Animation;
 			sourceTree = "<group>";
 		};
-		3D4AB7BB2843255E00DCA32C /* Round */ = {
+		3D4AB7F328436D0500DCA32C /* Round */ = {
 			isa = PBXGroup;
 			children = (
-				3D4AB7BC2843255E00DCA32C /* SUIBoundsRoundButton.m */,
-				3D4AB7BD2843255E00DCA32C /* SUIBoundsRoundButton.h */,
+				3D4AB7F428436D0500DCA32C /* SUIBoundsRoundButton.m */,
+				3D4AB7F528436D0500DCA32C /* SUIBoundsRoundButton.h */,
 			);
 			path = Round;
 			sourceTree = "<group>";
@@ -236,7 +237,7 @@
 		A34E263D4EA3E79FF6504EF38796F00E /* MyPrivateDemo */ = {
 			isa = PBXGroup;
 			children = (
-				3D4AB7AE2843255E00DCA32C /* Button */,
+				3D4AB7E628436D0500DCA32C /* Button */,
 				FD44A59409686297B56CB65DE9567D75 /* ReplaceMe.m */,
 				C27924B55F4A5E12A87403DF21CC6859 /* Pod */,
 				73112EE95021C3A5E05E824CB223C3A4 /* Support Files */,
@@ -315,12 +316,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				6DFD2C28C5B853AD1AF371A6242875D6 /* MyPrivateDemo-umbrella.h in Headers */,
-				3D4AB7BF2843255E00DCA32C /* ALUIButton.h in Headers */,
-				3D4AB7BE2843255E00DCA32C /* UIButton+TouchSize.h in Headers */,
-				3D4AB7C52843255E00DCA32C /* UIButton+Animation.h in Headers */,
-				3D4AB7C32843255E00DCA32C /* UIButton+Basic.h in Headers */,
-				3D4AB7C92843255E00DCA32C /* SUIBoundsRoundButton.h in Headers */,
-				3D4AB7C22843255E00DCA32C /* UIButton+Position.h in Headers */,
+				3D4AB7F728436D0500DCA32C /* ALUIButton.h in Headers */,
+				3D4AB7F628436D0500DCA32C /* UIButton+TouchSize.h in Headers */,
+				3D4AB7FD28436D0500DCA32C /* UIButton+Animation.h in Headers */,
+				3D4AB7FB28436D0500DCA32C /* UIButton+Basic.h in Headers */,
+				3D4AB80128436D0500DCA32C /* SUIBoundsRoundButton.h in Headers */,
+				3D4AB7FA28436D0500DCA32C /* UIButton+Position.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -442,13 +443,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				62E4DB9435244326D801248597881925 /* MyPrivateDemo-dummy.m in Sources */,
-				3D4AB7C82843255E00DCA32C /* SUIBoundsRoundButton.m in Sources */,
+				3D4AB80028436D0500DCA32C /* SUIBoundsRoundButton.m in Sources */,
 				59701659F9796043077846EF299E043F /* ReplaceMe.m in Sources */,
-				3D4AB7C62843255E00DCA32C /* ALUIButton.m in Sources */,
-				3D4AB7C12843255E00DCA32C /* UIButton+Basic.m in Sources */,
-				3D4AB7C02843255E00DCA32C /* UIButton+Position.m in Sources */,
-				3D4AB7C72843255E00DCA32C /* UIButton+TouchSize.m in Sources */,
-				3D4AB7C42843255E00DCA32C /* UIButton+Animation.m in Sources */,
+				3D4AB7FE28436D0500DCA32C /* ALUIButton.m in Sources */,
+				3D4AB7F928436D0500DCA32C /* UIButton+Basic.m in Sources */,
+				3D4AB7F828436D0500DCA32C /* UIButton+Position.m in Sources */,
+				3D4AB7FF28436D0500DCA32C /* UIButton+TouchSize.m in Sources */,
+				3D4AB7FC28436D0500DCA32C /* UIButton+Animation.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
