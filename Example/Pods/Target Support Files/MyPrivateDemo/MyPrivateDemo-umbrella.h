@@ -13,9 +13,10 @@
 #import "ALUIButton.h"
 #import "UIButton+Animation.h"
 #import "UIButton+Basic.h"
-#import "UIButton+Position.h"
 #import "SUIBoundsRoundButton.h"
 #import "UIButton+TouchSize.h"
+#import "YFBaseView.h"
+#import "YFComomModel.h"
 
 FOUNDATION_EXPORT double MyPrivateDemoVersionNumber;
 FOUNDATION_EXPORT const unsigned char MyPrivateDemoVersionString[];

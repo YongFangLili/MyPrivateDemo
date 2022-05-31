@@ -1,16 +1,24 @@
 PODS:
-  - MyPrivateDemo (0.1.2)
+  - MyPrivateDemo (0.1.2):
+    - YFBaseFrameWork
+  - YFBaseFrameWork (0.1.3)
 
 DEPENDENCIES:
   - MyPrivateDemo (from `../`)
+  - YFBaseFrameWork (= 0.1.3)
+
+SPEC REPOS:
+  "git@github.com:YongFangLili/YFSpecs-.git":
+    - YFBaseFrameWork
 
 EXTERNAL SOURCES:
   MyPrivateDemo:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MyPrivateDemo: e9f37ca63e94b84ed117f407819ed6ea25291bee
+  MyPrivateDemo: 6a8739e816a9eb1db522e832f05dd05a0f4d2476
+  YFBaseFrameWork: a09e70f6b780c44935e44976592763b16f28d472
 
-PODFILE CHECKSUM: 2c71564ca3281f99a5a86c7656cddf70dff2bf11
+PODFILE CHECKSUM: 713b9c4e041e193be640dea2addd43924c7a6fc9
 
 COCOAPODS: 1.11.3

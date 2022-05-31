@@ -18,5 +18,11 @@
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "MyPrivateDemo/Classes/**/*"
+  "source_files": "MyPrivateDemo/Classes/**/*",
+  "public_header_files": "Pod/Classes/**/*.h",
+  "dependencies": {
+    "YFBaseFrameWork": [
+
+    ]
+  }
 }

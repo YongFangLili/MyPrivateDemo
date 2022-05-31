@@ -1,9 +1,11 @@
 use_frameworks!
 
 platform :ios, '9.0'
-
+source 'git@github.com:YongFangLili/YFSpecs-.git'
 target 'MyPrivateDemo_Example' do
   pod 'MyPrivateDemo', :path => '../'
+  pod 'YFBaseFrameWork','0.1.3'
+  #git => 'git@github.com:YongFangLili/YFBaseFrameWork.git', :branch => 'main'
 
   target 'MyPrivateDemo_Tests' do
     inherit! :search_paths
